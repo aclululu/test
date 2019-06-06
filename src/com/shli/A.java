@@ -8,5 +8,8 @@ public class A {
         //M2M2M2
 
         //M4
+
+        //M5
+
     }
 }
